@@ -1,0 +1,55 @@
+#titulo{
+padding: 15px 0;
+text-align: center;
+font-size: 6em;
+}
+
+body{
+    background-color: salmon;
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color: black;
+    text-shadow: snow 2px 1px;
+    border-bottom: 03px solid black;
+    }
+
+#cristiano{
+    background-color: #e5ff00;
+    border-radius: 80%;
+    padding: 15px;
+    float: right;
+    border: 03px solid black;
+}
+
+.paragrafo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    width: 600px;
+    float: left;
+    border: 06px dotted rgb(0, 0, 0);
+    padding: 30px;
+    text-align: left;
+    background-color: yellow;
+}
+figcaption{
+   font-size: 26px;
+   text-align:center;
+}
+
+.foto1
+{
+border-radius: 50%;
+width: 480px;
+
+}
+
+footer{text-align: center;
+    clear: both;
+    position: relative;
+    padding: 100px;
+    font-size: 25px;
+}
